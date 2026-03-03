@@ -3,6 +3,8 @@
 A simple and modern URL shortening web application built using Django.
 
 🌐 Website Preview
+
+
 ![URL Shortener Interface](assets/images/Picture1.png)
 
 ## Overview
