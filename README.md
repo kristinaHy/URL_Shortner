@@ -7,18 +7,18 @@ A simple and modern URL shortening web application built using Django.
 
 ![URL Shortener Interface](assets/images/Picture1.png)
 
-## Overview
+## 📝 Overview
 
 A Django-based web application that allows users to convert long URLs into short, shareable links. The application provides a simple and intuitive interface for URL shortening with copy-to-clipboard functionality.
 
-## Features
+## 🔧 Features
 
 - **Easy URL Shortening**: Paste your long URL and get a shortened version instantly
 - **Copy to Clipboard**: One-click copying of generated short URLs
 - **Unique Short Codes**: Each URL is assigned a unique identifier for easy sharing
 - **Local Access**: Access via localhost (http://127.0.0.1:8000/)
 
-## Project Structure
+## 🗂️ Project Structure
 
 ```
 Url_shortner/
@@ -38,7 +38,7 @@ Url_shortner/
 └── requirements.txt     # Python dependencies
 ```
 
-## Installation
+## 🚀 Installation
 
 1. **Clone or navigate to the project directory**
    ```bash
@@ -63,7 +63,7 @@ Url_shortner/
 5. **Access the application**
    Open your browser and navigate to: `http://127.0.0.1:8000/`
 
-## Usage
+## 🎯 Usage
 
 1. Enter your long URL in the input field
 2. Click the "Shorten" button
@@ -71,23 +71,23 @@ Url_shortner/
 4. Click the "Copy" button to copy the short link to your clipboard
 5. Share the shortened URL with others!
 
-## Technologies Used
+## 🛠️ Technologies Used
 
 - **Backend**: Django
 - **Database**: SQLite3
 - **Frontend**: HTML/CSS
 - **Python Version**: 3.x
 
-## Requirements
+## 📦 Requirements
 
 See `requirements.txt` for all project dependencies.
 
 
 
-👩‍💻 Author
+## 👩‍💻 Author
 
 KRISTINA HYAUNMIKHA
 
-⭐ If you like this project
+## ⭐ If you like this project
 
 Give a star ⭐ to the repository!
