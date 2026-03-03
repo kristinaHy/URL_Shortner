@@ -12,3 +12,7 @@ def home(request):
         })
 
     return render(request, "shortener/home.html")
+
+def redirect_url(request, code):
+    url = get_object_or_404(URL, short_code=code)
+    return redirect(url.long_url)
