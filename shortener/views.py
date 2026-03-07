@@ -17,4 +17,6 @@ def home(request):
 
 def redirect_url(request, code):
     url = get_object_or_404(URL, short_code=code)
+    url.clicks += 1
+    url.save()
     return redirect(url.long_url)
