@@ -74,7 +74,7 @@ Url_shortner/
 ## 🛠️ Technologies Used
 
 - **Backend**: Django
-- **Database**: SQLite3
+- **Database**: Postgres
 - **Frontend**: HTML/CSS
 - **Python Version**: 3.x
 
